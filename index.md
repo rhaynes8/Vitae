@@ -35,11 +35,11 @@ Final year project, entitled ‘An Investigation into the Use of Reverberation i
 
 ## Technical Skills
 
-- Software Development - C++20; JUCE; App Development (Desktop and Mobile); UI Design; CMake; CPack; GitHub Actions; Doctest; Bash Scripting;
-- Mathematics – Algebra; Calculus; Laplace Transforms; Control (classical, digital and state space)
+- Software Development - C++20 | JUCE | App Development and Deployment (Desktop and Mobile) | UI Design | CMake | CPack | CI/CD (GitHub Actions) | Doctest | Bash Scripting
+- Mathematics – Algebra | Calculus | Laplace Transforms | Control (classical, digital and state space)
 - Recording - Self-assured in multiple DAWs including: ProTools 11, Logic Pro X, Reaper.
-- Acoustics - Room Impulse Response Analysis; Acoustic Treatment; Psychoacoustics; Multitrack Auralisation; Ambisonics; Binaural Rendering;
-- Digital Signal Processing – Continuous, Discrete and Discrete Time Fourier Transform; Digital Filter Design; Windowing; Convolution and Deconvolution.
+- Acoustics - Room Impulse Response Analysis | Acoustic Treatment | Psychoacoustics | Multitrack Auralisation | Ambisonics | Binaural Rendering |
+- Digital Signal Processing – Continuous, Discrete and Discrete Time Fourier Transform | Digital Filter Design | Windowing | Convolution and Deconvolution.
 
 ## Hobbies
 
